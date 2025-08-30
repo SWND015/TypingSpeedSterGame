@@ -5,7 +5,7 @@ public class AccuracyCalculator extends TypingComponent {
   public double calculateAccuracy() {
       String typed = getTypedText();
       String target = getTargetText();
-      
+      //new line
 
       if (typed == null || typed.isEmpty()) return 0.0;
 
