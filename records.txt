@@ -1,0 +1,10 @@
+Session 1: WPM: 65.26   Accuracy: 100.00%
+Session 2: WPM: 43.03   Accuracy: 100.00%
+Session 3: WPM: 37.69   Accuracy: 100.00%
+Session 4: WPM: 61.92   Accuracy: 91.84%
+Session 5: WPM: 5.81   Accuracy: 0.00%
+Session 6: WPM: 44.00   Accuracy: 100.00%
+Session 7: WPM: 28.95   Accuracy: 100.00%
+Session 8: WPM: 63.76   Accuracy: 100.00%
+Session 9: WPM: 0.00   Accuracy: 0.00%
+Session 10: WPM: 59.66   Accuracy: 100.00%
